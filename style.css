@@ -601,9 +601,9 @@ body {
     right: 42px;
   }
   .searchbox1 {
-    position: absolute;
+    position: fixed;
     top: 32px;
-    right: 108px;
+    right: 140px;
   }
   .searchbox1 input {
     font-size: 10px;
